@@ -1,5 +1,3 @@
-![Header Image](https://source.unsplash.com/1600x400/?technology,code)
-
 # 👋 Hi, I'm Milutin Nedeljković!  
 
 ## 🌍 About Me  
