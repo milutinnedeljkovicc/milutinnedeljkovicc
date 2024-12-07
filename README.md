@@ -32,19 +32,6 @@ I have experience with multiple programming languages and technologies:
 
 ## 📊 GitHub Stats  
 ![Milutin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
----
-
-## 📫 Contact Me  
-- **GitHub**: [github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/YourProfile) _(optional)_  
-
----
-
-### ⭐ Fun Fact  
-I enjoy working on creative projects, solving complex problems, and exploring technologies that make life more efficient! 🚀  
 
 ---
 
