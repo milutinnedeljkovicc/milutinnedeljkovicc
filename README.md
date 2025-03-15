@@ -7,15 +7,17 @@
 - 🗓️ **Born**: 2006  
 
 ## 💻 Programming Skills  
-I have experience with multiple programming languages and technologies:
+I have experience with multiple programming languages and technologies:  
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-0068A6?style=flat&logo=xml&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)  
+![XML](https://img.shields.io/badge/-XML-0068A6?style=flat&logo=xml&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Octave](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 ## 🚀 What I'm Currently Doing  
 - 🌱 Developing various **Android applications** in *Android Studio*.  
